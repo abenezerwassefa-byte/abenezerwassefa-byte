@@ -21,8 +21,11 @@ Python • Flask • SQLite • SCSS
 
 ---
 
-### AI Project Coming Soon
-Exploring machine learning and AI engineering.
+## 🤖 Currently Exploring
+
+- Machine Learning fundamentals
+- Neural networks with Python
+- AI integration into web applications
 
 
 # 💻 Tech Stack:
