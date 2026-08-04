@@ -7,8 +7,9 @@
 
 ## 🚀 Featured Projects
 
-### https://github.com/abenezerwassefa-byte/TaskFlow
+### TaskFlow
 A full-stack task management application built with Flask.
+Follow the link to take a look  https://github.com/abenezerwassefa-byte/TaskFlow
 
 Features:
 - User authentication
