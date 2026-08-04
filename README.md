@@ -10,6 +10,8 @@
 ### TaskFlow
 A full-stack task management application built with Flask.
 Follow the link to take a look  https://github.com/abenezerwassefa-byte/TaskFlow
+## A screenshot of how TaskFlow looks 
+<img width="949" height="435" alt="image" src="https://github.com/user-attachments/assets/9ca69eb3-1491-42b7-a9ee-6fe985e0e3a6" />
 
 Features:
 - User authentication
