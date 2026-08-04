@@ -1,9 +1,28 @@
 ## Hi there 👋 I'm Abenezer. 
 🧠 A Computer Science major at HILCoE School of Computer Science and Technology in Addis Ababa, Ethiopia.</br>
-🔭 I’m currently working on a todo app using python, flask, and scss. This is my first project give me some credit😤</br>
+🔭 Currently building a full-stack task management application using Flask, Python, and SCSS as a foundation for learning backend development.</br>
 🌱 currently learning how to deploy web apps and trying to apply AI integration.</br>
 👯 Looking to collaborate with anyone with cool projects in mind and someone who is more than open to grow with others.</br>
 🤔 and I'm also looking for internships in tech and AI Engineering work.</br>
+
+## 🚀 Featured Projects
+
+### TaskFlow
+A full-stack task management application built with Flask.
+
+Features:
+- User authentication
+- CRUD operations
+- Database integration
+- Responsive UI
+
+Tech:
+Python • Flask • SQLite • SCSS
+
+---
+
+### AI Project Coming Soon
+Exploring machine learning and AI engineering.
 
 
 # 💻 Tech Stack:
