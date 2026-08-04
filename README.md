@@ -1,4 +1,4 @@
-## Hi there 👋 My I'm Abenezer. 
+## Hi there 👋 I'm Abenezer. 
 🧠 A Computer Science major at HILCoE School of Computer Science and Technology in Addis Ababa, Ethiopia.</br>
 🔭 I’m currently working on a todo app using python, flask, and scss. This is my first project give me some credit😤</br>
 🌱 currently learning how to deploy web apps and trying to apply AI integration.</br>
