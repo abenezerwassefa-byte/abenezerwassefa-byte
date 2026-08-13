@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Abenezer. 
-🧠 A Computer Science major at HILCoE School of Computer Science and Technology in Addis Ababa, Ethiopia.</br>
-🔭 Currently building a full-stack task management application using Flask and Python as a foundation for learning backend development.</br>
+🧠 A recent Highschool graduate.</br>
 🌱 Currently learning how to deploy web apps and trying to apply AI integration.</br>
 🤝 Open to collaborating on backend development, Flask, Python, and AI projects.</br>
 🎯 Seeking Software Engineering, Backend Development, or AI Engineering internship opportunities.</br>
