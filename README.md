@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Well, hi there 👋
 
-I'm a Computer Science student at HiLCoE School of Computer Science and Technology and an Agentic AI Developer Intern at NeuralSeek. I focus on building AI-integrated systems with Python, with a particular interest in AI engineering and applied machine learning.
+I'm Abenezer W. Assefa, a Computer Science student at HiLCoE School of Computer Science and Technology and an Agentic AI Developer Intern at NeuralSeek. I focus on building AI-integrated systems with Python, with a particular interest in AI engineering and applied machine learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abenezer-w-assefa) 
