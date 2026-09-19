@@ -1,34 +1,18 @@
-## Hi there 👋 I'm Abenezer. 
-🧠 A recent Highschool graduate.</br>
-🌱 Currently learning how to deploy web apps and trying to apply AI integration.</br>
-🤝 Open to collaborating on backend development, Flask, Python, and AI projects.</br>
-🎯 Seeking Software Engineering, Backend Development, or AI Engineering internship opportunities.</br>
+# 💫 About Me:
+I'm a Computer Science student attending HiLCoE School of Computer Science and Technology. I'm an Agentic AI Developer intern at NeuralSeek. I mainly focus on building AI-integrated systems.
 
-## 🚀 Featured Projects
 
-### TaskFlow
-A full-stack task management application built with Flask.
-Follow the link to take a look  https://github.com/abenezerwassefa-byte/TaskFlow
-## A screenshot of how TaskFlow looks 
-<img width="949" height="435" alt="image" src="https://github.com/user-attachments/assets/9ca69eb3-1491-42b7-a9ee-6fe985e0e3a6" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abenezer-w-assefa) 
 
-Features:
-- User authentication
-- CRUD operations
-- Database integration
-- Responsive UI
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abenezerwassefa-byte&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abenezerwassefa-byte&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abenezerwassefa-byte&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Tech:
-Python • NumPy • PyTorch • Supabase
-
----
-
-## 🤖 Currently Exploring
-
-- Machine Learning fundamentals
-- Neural networks with Python
-- AI integration into web applications
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Tech Stack:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
